@@ -1,3 +1,4 @@
+//Some operations are commented will be updated soon 
 #include<stdio.h>
 #include<stdlib.h>
 void insert_normal();
