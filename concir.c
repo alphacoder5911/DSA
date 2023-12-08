@@ -1,3 +1,6 @@
+//proramme to concatinate two singly linked lists
+
+
 #include<stdio.h>
 #include<stdlib.h>
 void create_l1();
